@@ -1,6 +1,6 @@
 # Researchify: Simple Insights, Visualized, Vocalized
 
-## Submitted to: TreeHacks 2024
+## Submitted to: TreeHacks 2024 - [Devpost project](https://devpost.com/software/researchify-guwc82)
 
 ## Inspiration
 In the vast sea of academic literature, navigating through dense and complex research papers can be a daunting task. Recognizing the challenge of information overload within the academic and research community, Researchify emerges as a beacon of innovation. Our mission is to transform how researchers interact with scholarly articles, making them more accessible and digestible, and thus enabling scholars to efficiently keep pace with the latest advancements in their fields.
@@ -42,6 +42,3 @@ The journey of creating Researchify has been enriching, enhancing our skills in 
 - Python
 - React Native
 - Together.ai
-
-## Devpost
-[Devpost](https://devpost.com/software/researchify-guwc82)
