@@ -5,7 +5,8 @@
 ## Inspiration
 In the vast sea of academic literature, navigating through dense and complex research papers can be a daunting task. Recognizing the challenge of information overload within the academic and research community, Researchify emerges as a beacon of innovation. Our mission is to transform how researchers interact with scholarly articles, making them more accessible and digestible, and thus enabling scholars to efficiently keep pace with the latest advancements in their fields.
 
-[![Video Demo](https://github.com/VinhDuyLe/researchify/blob/main/IMG_6994690C953F-1.jpeg)](https://i.imgur.com/hUVgePM.mp4)
+[<img src="https://github.com/VinhDuyLe/researchify/blob/main/IMG_6994690C953F-1.jpeg" alt="Video Demo" width="300">](https://i.imgur.com/hUVgePM.mp4)
+
 
 
 ## Features
