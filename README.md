@@ -5,6 +5,9 @@
 ## Inspiration
 In the vast sea of academic literature, navigating through dense and complex research papers can be a daunting task. Recognizing the challenge of information overload within the academic and research community, Researchify emerges as a beacon of innovation. Our mission is to transform how researchers interact with scholarly articles, making them more accessible and digestible, and thus enabling scholars to efficiently keep pace with the latest advancements in their fields.
 
+[![Video Demo](https://img.youtube.com/vi/your-thumbnail-id/0.jpg)](https://i.imgur.com/hUVgePM.mp4)
+
+
 ## Features
 - Simplified Research: Transforms extensive research papers into concise, easy-to-understand summaries.
 - Multimodal Summaries: Enhances summaries with relevant images and audio descriptions, providing a comprehensive understanding through text, imagery, and sound.
